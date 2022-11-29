@@ -1,0 +1,36 @@
+h5 {
+    color: white;
+}
+.card-body{
+    background-image: url("200871.webp");
+    width : 100%;
+    height : 50%;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}   
+h3{
+    font-size: 50px;
+    text-align: left;
+    color: white;
+
+}
+h4{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    background-color: rgb(92, 92, 92);
+}
+hr{
+    color: black;
+    width : 100%;
+}
+.card-body2{
+    background-image: url("wairon.jpg");
+    width : 100%;
+    height : 100%;
+    background-repeat: no-repeat;
+}   
+h2{
+    color: white;
+    background-color: rgb(151, 151, 151);
+}
