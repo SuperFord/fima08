@@ -2,35 +2,84 @@ h5 {
     color: white;
 }
 .card-body{
-    background-image: url("200871.webp");
+    background-image: url("img/superhero11111.jpg") ;
     width : 100%;
     height : 50%;
     background-repeat: no-repeat;
-    opacity: 0.9;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    
 }   
+.hr{
+    background-image: url("img/black-370118_960_720.png");
+    width : 100%;
+    height : 10%;
+}
 h3{
     font-size: 50px;
     text-align: left;
     color: white;
-
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 h4{
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
     color: white;
-    background-color: rgb(92, 92, 92);
+    background-color: rgba(0, 0, 0, 0.74);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
-hr{
-    color: black;
-    width : 100%;
-}
+
 .card-body2{
-    background-image: url("wairon.jpg");
+    background-image: url("img/wairon.jpg");
     width : 100%;
     height : 100%;
     background-repeat: no-repeat;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }   
 h2{
     color: white;
-    background-color: rgb(151, 151, 151);
+    background-color: rgba(0, 0, 0, 0.829);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 28px;
+}
+h1{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 50px;
+    border: #FFFFFF;
+}
+/* boutton */
+.button-24 {
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.button-24:active {
+  opacity: .5;
 }
