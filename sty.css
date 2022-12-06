@@ -12,9 +12,10 @@ h5 {
 }
 
 .hr {
-    background-image: url("img/black-370118_960_720.png");
+    /* background-image: url("img/black-370118_960_720.png"); */
     width: 100%;
-    height: 10%;
+    height: 10px;
+    background-color: black;
 }
 
 h3 {
@@ -42,7 +43,7 @@ h4 {
 }
 
 .card-body2 {
-    background-image: url("img/wairon1.jpg");
+    background-image: url("img/wairon3.jpg");
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
@@ -117,7 +118,7 @@ h1 {
     top: 0px;
     z-index: -1;
     width: 100%;
-    height: 65%;
+    height: 70%;
     opacity: 0.8;
     background-repeat: no-repeat;
 }
